@@ -2,6 +2,8 @@
 
 A compact ESP32 based air-quality monitor combining dedicated sensors for CO₂, particulate matter, VOCs, NOx, temperature and humidity.
 ![Alt text](https://github.com/CXD8/AIO-AIR-v2/blob/71408ca1630c75612f7a3e87ab16bef816e1d59f/pcb/images/AIO-AIR-v2-pcb-front.PNG)
+![Alt text](https://github.com/CXD8/AIO-AIR-v2/blob/main/pcb/images/AIO-AIR-v2-assembled.png)
+![Alt text](https://github.com/CXD8/AIO-AIR-v2/blob/main/pcb/sch/sch.PNG)
 
 ## Features
 
