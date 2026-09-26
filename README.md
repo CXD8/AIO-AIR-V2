@@ -11,7 +11,7 @@ A compact ESP32 based air-quality monitor combining dedicated sensors for CO₂,
   - PM2.5
   - PM4.0
   - PM10
-- **VOC & NOx monitoring** — Sensirion SGP41
+- **VOC & NOx monitoring** Sensirion SGP41
 - **240×320 colour TFT display**
 - **ESP32-S3 powered**
 - **Wi-Fi connectivity**
