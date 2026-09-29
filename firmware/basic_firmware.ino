@@ -6,7 +6,7 @@
 #include <Adafruit_SCD30.h>
 
 // ==========================================
-// PIN CONFIGURATION (from existing project)
+// PIN CONFIGURATION
 // ==========================================
 constexpr int PIN_I2C_SDA = 8;
 constexpr int PIN_I2C_SCL = 3;
